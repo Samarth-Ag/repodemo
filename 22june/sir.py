@@ -1,0 +1,1 @@
+data=open('abc.log').read
